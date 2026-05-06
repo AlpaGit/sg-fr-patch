@@ -1,0 +1,64 @@
+Cette release contient deux types de contenus, soumis à des licences différentes.
+
+================================================================================
+1. Code de l'installeur (installer/install.ps1, installer/uninstall.ps1,
+   install.bat, uninstall.bat)
+================================================================================
+
+MIT License
+
+Copyright (c) 2026 Contributeurs de la VF Steins;Gate
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+2. Contenu textuel de la traduction (patch/script.mpk, patch/system.mpk)
+================================================================================
+
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+(CC BY-NC-SA 4.0)
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr
+
+Vous êtes autorisé à :
+
+- Partager — copier, distribuer et communiquer le matériel par tous moyens et sous
+  tous formats.
+- Adapter — remixer, transformer et créer à partir du matériel.
+
+Selon les conditions suivantes :
+
+- Attribution — Vous devez créditer les contributeurs de la VF Steins;Gate, intégrer
+  un lien vers ce dépôt et indiquer si des modifications ont été effectuées.
+- Pas d'Utilisation Commerciale — Vous n'êtes pas autorisé à faire un usage commercial
+  de cette œuvre, tout ou partie du matériel la composant.
+- Partage dans les Mêmes Conditions — Dans le cas où vous effectuez un remix, que vous
+  transformez, ou créez à partir du matériel composant l'œuvre originale, vous devez
+  diffuser l'œuvre modifiée dans les mêmes conditions, c'est-à-dire avec la même
+  licence avec laquelle l'œuvre originale a été diffusée.
+
+================================================================================
+3. Le jeu Steins;Gate lui-même
+================================================================================
+
+Steins;Gate © MAGES. / 5pb. / Nitroplus. Aucun fichier original du jeu n'est inclus
+dans cette release. Pour utiliser ce patch, vous devez posséder une copie légitime
+du jeu (Steam, app id 412830). Tous les droits sur le scénario, les personnages,
+les illustrations, la musique et le moteur du jeu appartiennent à leurs ayants
+droit respectifs.

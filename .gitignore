@@ -1,0 +1,21 @@
+# Système / éditeurs
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Build artifacts (au cas où on génère du compilé localement)
+build/
+dist/
+*.tmp
+*.log
+
+# Archives de release préparées localement
+*.zip
