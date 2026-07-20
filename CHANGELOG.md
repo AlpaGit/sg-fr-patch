@@ -3,6 +3,15 @@
 Le format suit [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/) et la numérotation
 suit [SemVer](https://semver.org/lang/fr/).
 
+## [1.0.1] — 2026-07-20
+
+### Corrigé
+- Remplacement du `script.mpk` publié par erreur dans la v1.0.0, qui ne contenait
+  qu'un seul script traduit sur 190. Le scénario, les TIPS, les SMS, les attachments
+  et l'interface utilisent maintenant bien les tables françaises.
+- Le patch public conserve les voix japonaises d'origine ; aucun doublage expérimental
+  n'est inclus.
+
 ## [1.0.0] — 2026-05-06
 
 ### Ajouté

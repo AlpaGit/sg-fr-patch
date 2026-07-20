@@ -7,7 +7,7 @@ Ce patch comble le manque : tous les textes du jeu (scénario principal, TIPS, S
 interface) sont traduits depuis la version anglaise officielle, avec une police étendue pour
 afficher les accents français.
 
-> **Statut** — v1.0, jouable de bout en bout. La traduction couvre l'intégralité des chapitres
+> **Statut** — v1.0.1, jouable de bout en bout. La traduction couvre l'intégralité des chapitres
 > du scénario (Prologue → Chapitre 11), les TIPS, l'interface et les SMS. Quelques imperfections
 > subsistent (voir [limitations connues](#limitations-connues)), mais tout est lisible et
 > cohérent. Les retours sont les bienvenus.

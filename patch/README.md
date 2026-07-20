@@ -4,7 +4,7 @@ Ce dossier contient les fichiers binaires qui remplacent ceux du jeu original :
 
 | Fichier | Taille | Présent dans le repo ? | Présent dans la release ? |
 |---|---|---|---|
-| `script.mpk` | ~6 Mo | Oui (versionné dans Git) | Oui |
+| `script.mpk` | ~6,5 Mo | Oui (versionné dans Git) | Oui |
 | `system.mpk` | ~133 Mo | **Non** (trop gros pour Git) | Oui |
 
 **Pour installer le patch, téléchargez l'archive `.zip` complète depuis l'onglet

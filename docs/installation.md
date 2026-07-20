@@ -117,7 +117,8 @@ C'est tout : deux fichiers remplacés, ~140 Mo au total.
 
 ## Vérification
 
-- Le `script.mpk` du dossier `USRDIR` doit faire **6 334 480 octets** (~6 Mo, version FR).
+- Le `script.mpk` du dossier `USRDIR` doit faire **6 828 048 octets** (~6,5 Mo, version FR
+  v1.0.1).
   L'original anglais fait environ 6 Mo également mais avec une signature différente.
 - Le `system.mpk` doit faire **133 601 432 octets** (~133 Mo, version FR avec police étendue).
   L'original fait à peu près la même taille — la différence porte sur les textures de
